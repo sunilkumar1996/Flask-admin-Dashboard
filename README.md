@@ -23,7 +23,7 @@ Utilities:
 
 - Clone or download the git repository.
     ```sh
-    $ git clone https://github.com/jonalxh/Flask-Admin-Dashboard.git
+    $ git clone https://github.com/jonalxh/Flask-admin-Dashboard.git
     ```
 - Create and activate a virtual environment:
     ```sh
